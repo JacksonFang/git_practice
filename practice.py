@@ -8,6 +8,9 @@ def main():
 
     result = add_three_nums(num1, num2, num3)
     print(result)  # Output: 12
+    print(result)  # Output: 12
+    print(result)  # Output: 12
+
 
 if __name__ == '__main__':
     main()
