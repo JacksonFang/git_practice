@@ -4,6 +4,9 @@ def add_three_nums(num1, num2, num3):
 def test2(num1, num2, num3):
     return num1 + num2 + num3
 
+def test3(num1, num2, num3):
+    return num1 + num2 + num3
+
 def test1(num1, num2, num3):
     return num1 + num2 + num3
 
@@ -26,6 +29,12 @@ def main():
 if __name__ == '__main__':
     main()
 
+def test31(num1, num2, num3):
+    return num1 + num2 + num3
+
+def test32(num1, num2, num3):
+    return num1 + num2 + num3
+
 def test45(num1, num2, num3):
     return num1 + num2 + num3
 
@@ -33,4 +42,7 @@ def test46(num1, num2, num3):
     return num1 + num2 + num3
 
 def test41(num1, num2, num3):
+    return num1 + num2 + num3
+
+def test48(num1, num2, num3):
     return num1 + num2 + num3
