@@ -29,6 +29,12 @@ def main():
 if __name__ == '__main__':
     main()
 
+def test31(num1, num2, num3):
+    return num1 + num2 + num3
+
+def test32(num1, num2, num3):
+    return num1 + num2 + num3
+
 def test45(num1, num2, num3):
     return num1 + num2 + num3
 
