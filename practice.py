@@ -16,6 +16,15 @@ def test42(num1, num2, num3):
 def test41(num1, num2, num3):
     return num1 + num2 + num3
 
+def test41(num1, num2, num3):
+    return num1 + num2 + num3
+
+def test43(num1, num2, num3):
+    return num1 + num2 + num3
+
+def test44(num1, num2, num3):
+    return num1 + num2 + num3
+
 def main():
     num1 = 3
     num2 = 4
