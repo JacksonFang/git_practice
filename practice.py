@@ -47,11 +47,11 @@ def test32(num1, num2, num3):
 def test45(num1, num2, num3):
     return num1 + num2 + num3
 
-def test46(num1, num2, num3):
+def test65(num1, num2, num3):
     return num1 + num2 + num3
 
-def test41(num1, num2, num3):
+def test64(num1, num2, num3):
     return num1 + num2 + num3
 
-def test48(num1, num2, num3):
+def test63(num1, num2, num3):
     return num1 + num2 + num3
